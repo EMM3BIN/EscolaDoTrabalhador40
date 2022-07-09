@@ -1,0 +1,1 @@
+Nessa primeira aula, eu pude aprender alguns conceitos básicos, como as 'variáveis' - entre elas, usei 'string' e 'int'- que são espaços reservados na memória do computador e que podem sempre ser consultadas ao longo do código.
